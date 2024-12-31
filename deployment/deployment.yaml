@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: monitoringsystem-deployment
+  labels:
+    app: monitoringsystem
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: monitoringsystem
+  template:
+    metadata:
+      labels:
+        app: monitoringsystem
+    spec:
+      containers:
+      - name: monitoringsystem
+        image: monitoringsystem:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 80
+        - containerPort: 8081
+        resources:
+          requests:
+            memory: "64Mi"
+            cpu: "250m"
+          limits:
+            memory: "128Mi"
+            cpu: "500m"

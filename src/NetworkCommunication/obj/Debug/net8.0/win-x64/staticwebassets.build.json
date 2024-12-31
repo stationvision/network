@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7bAkHvcvTRZjLX1szfAMI1Z0hAGP2WEAIctj1UYiS3w=",
+  "Source": "NetworkCommunications",
+  "BasePath": "_content/NetworkCommunications",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

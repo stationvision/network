@@ -1,0 +1,55 @@
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.deps.json
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.sourcelink.json
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\refint\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\ref\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.AssemblyReference.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.deps.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.AssemblyReference.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfoInputs.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfo.cs
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.CoreCompileInputs.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.sourcelink.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\refint\Monitoring.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Core\obj\Release\net8.0\ref\Monitoring.Core.dll
+C:\temp\publish\Monitoring.Core.deps.json
+C:\temp\publish\Monitoring.Core.dll
+C:\temp\publish\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.AssemblyReference.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.sourcelink.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\refint\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\ref\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.deps.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.deps.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\bin\Release\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.AssemblyReference.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfoInputs.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.AssemblyInfo.cs
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.csproj.CoreCompileInputs.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.sourcelink.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\refint\Monitoring.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Core\obj\Release\net8.0\ref\Monitoring.Core.dll

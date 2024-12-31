@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "NetworkCommunications.Controllers.MessageController",
+    "Method": "SendMessage",
+    "RelativePath": "api/Message/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NetworkCommunications.Controllers.SendMessageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NetworkCommunications.Controllers.MessageController",
+    "Method": "CleanQueue",
+    "RelativePath": "api/Message/VanishQueue",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

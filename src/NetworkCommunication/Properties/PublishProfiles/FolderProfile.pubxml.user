@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-08T21:20:35.5410300Z;True|2024-06-08T23:20:15.0611759+02:00;True|2024-05-28T13:21:05.4160497+02:00;True|2024-05-28T13:11:06.5781442+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

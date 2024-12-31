@@ -1,0 +1,137 @@
+C:\Hakon\MonitoringSystem\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+C:\Hakon\MonitoringSystem\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.runtimeconfig.json
+C:\Hakon\temp\Mohsen\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.genruntimeconfig.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.runtimeconfig.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.genruntimeconfig.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.runtimeconfig.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.genruntimeconfig.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.runtimeconfig.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.genruntimeconfig.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.runtimeconfig.json
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.genruntimeconfig.cache
+G:\WebDesign\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.deps.json
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.runtimeconfig.json
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.dll
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Db.pdb
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.dll
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\bin\Debug\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.AssemblyReference.cache
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.GeneratedMSBuildEditorConfig.editorconfig
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfoInputs.cache
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.AssemblyInfo.cs
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.csproj.CoreCompileInputs.cache
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.sourcelink.json
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitori.6538842D.Up2Date
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.dll
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\refint\Monitoring.Db.dll
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.pdb
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\Monitoring.Db.genruntimeconfig.cache
+D:\Station Vision System\Web Software\WebApp\WebApplication\back\NetworkSevice\NetworkSevice\src\Monitoring.Db\obj\Debug\net8.0\ref\Monitoring.Db.dll

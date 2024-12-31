@@ -1,0 +1,18 @@
+﻿@page
+@model FormFillModel
+@{
+    ViewData["Title"] = "Fill Form";
+}
+
+<h2>@Model.Form.Title</h2>
+
+<form method="post">
+    @foreach (var field in Model.Fields)
+    {
+        <div class="form-group">
+            <label>@field.Name</label>
+            <input type="@field.Type" class="form-control" name="field_@field.FieldId" />
+        </div>
+    }
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

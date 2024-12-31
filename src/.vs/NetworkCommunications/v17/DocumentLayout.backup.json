@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\messageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\messageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\tcpmanager\\tcpclientpacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\tcpmanager\\tcpclientpacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\tcpmanager\\pingmessagegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\tcpmanager\\pingmessagegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\udpbroadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\udpbroadcastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\testhosted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\testhosted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\tcplistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\tcplistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\scopedserviceresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\scopedserviceresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\postprocessingpingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\postprocessingpingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\pingcontinusly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\pingcontinusly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\aggregationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\aggregationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\options\\configoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\options\\configoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\dtos\\clienttoserverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\dtos\\clienttoserverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\handlers\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\handlers\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|g:\\webdesign\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageProcessingService.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\MessageProcessingService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\MessageProcessingService.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\MessageProcessingService.cs*",
+              "RelativeToolTip": "NetworkCommunication\\Services\\MessageProcessingService.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAWwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:43:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScopedServiceResolver.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\ScopedServiceResolver.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\ScopedServiceResolver.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\ScopedServiceResolver.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\ScopedServiceResolver.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:00:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TcpListenerService.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\TcpListenerService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\TcpListenerService.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\TcpListenerService.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\TcpListenerService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:00:07.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestHosted.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\TestHosted.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\TestHosted.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\TestHosted.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\TestHosted.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:00:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TcpClientPacking.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "RelativeToolTip": "NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAIwLgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:06:58.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AggregationService.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\AggregationService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\AggregationService.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\AggregationService.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\AggregationService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:59:43.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Command.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\Command.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\Command.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\Command.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:59:50.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PingContinusly.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\PingContinusly.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\PingContinusly.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\PingContinusly.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\PingContinusly.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:59:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UdpBroadcastService.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\UdpBroadcastService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\UdpBroadcastService.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\UdpBroadcastService.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\UdpBroadcastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:23:33.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PingMessageGenerator.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\TcpManager\\PingMessageGenerator.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\TcpManager\\PingMessageGenerator.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\TcpManager\\PingMessageGenerator.cs",
+              "RelativeToolTip": "NetworkCommunication\\TcpManager\\PingMessageGenerator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:19:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigOption.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Options\\ConfigOption.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Options\\ConfigOption.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Options\\ConfigOption.cs",
+              "RelativeToolTip": "NetworkCommunication\\Options\\ConfigOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:59:37.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostProcessingPingService.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\PostProcessingPingService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\PostProcessingPingService.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\PostProcessingPingService.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\PostProcessingPingService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:59:56.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientToServerDto.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Dtos\\ClientToServerDto.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Dtos\\ClientToServerDto.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Dtos\\ClientToServerDto.cs",
+              "RelativeToolTip": "NetworkCommunication\\Dtos\\ClientToServerDto.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAAoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:42:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Controllers\\MessageController.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "NetworkCommunication\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:43:11.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NetworkCommunication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:51:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\appsettings.json",
+              "RelativeDocumentMoniker": "NetworkCommunication\\appsettings.json",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\appsettings.json",
+              "RelativeToolTip": "NetworkCommunication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T17:26:02.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageHandler.cs",
+              "DocumentMoniker": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Handlers\\MessageHandler.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Handlers\\MessageHandler.cs",
+              "ToolTip": "G:\\WebDesign\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Handlers\\MessageHandler.cs",
+              "RelativeToolTip": "NetworkCommunication\\Handlers\\MessageHandler.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:44:15.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

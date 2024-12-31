@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|d:\\station vision system\\web software\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\tcpmanager\\tcpclientpacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\tcpmanager\\tcpclientpacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|d:\\station vision system\\web software\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\services\\messageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\services\\messageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|d:\\station vision system\\web software\\webapp\\webapplication\\back\\networksevice\\networksevice\\src\\networkcommunication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E33AD2-2AC6-47CD-8F00-E095C998C195}|NetworkCommunication\\NetworkCommunications.csproj|solutionrelative:networkcommunication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpClientPacking.cs",
+              "DocumentMoniker": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "ToolTip": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "RelativeToolTip": "NetworkCommunication\\TcpManager\\TcpClientPacking.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAcwMkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:47:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\appsettings.json",
+              "RelativeDocumentMoniker": "NetworkCommunication\\appsettings.json",
+              "ToolTip": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\appsettings.json",
+              "RelativeToolTip": "NetworkCommunication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T16:37:34.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageProcessingService.cs",
+              "DocumentMoniker": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\MessageProcessingService.cs",
+              "RelativeDocumentMoniker": "NetworkCommunication\\Services\\MessageProcessingService.cs",
+              "ToolTip": "D:\\Station Vision System\\Web Software\\WebApp\\WebApplication\\back\\NetworkSevice\\NetworkSevice\\src\\NetworkCommunication\\Services\\MessageProcessingService.cs",
+              "RelativeToolTip": "NetworkCommunication\\Services\\MessageProcessingService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAxwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:47:27.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

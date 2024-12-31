@@ -1,0 +1,737 @@
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\appsettings.Development.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\appsettings.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.exe
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.deps.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.runtimeconfig.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.pdb
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Azure.Core.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Azure.Identity.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Humanizer.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Data.Sqlite.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Core.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Extensions.DependencyInjection.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Extensions.Hosting.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.MessageInterfaces.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Transport.SqlServer.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\SQLitePCLRaw.core.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.ClientModel.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.CodeDom.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.Convention.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Memory.Data.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Core.pdb
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.csproj.AssemblyReference.cache
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cs
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cache
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.sourcelink.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets.build.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets.development.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.NetworkCommunications.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.build.NetworkCommunications.props
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetworkCommunications.props
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.NetworkCommunications.props
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets.pack.json
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\scopedcss\bundle\NetworkCommunications.styles.css
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkC.51929993.Up2Date
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\refint\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.pdb
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.genruntimeconfig.cache
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\ref\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Castle.Core.dll
+C:\Hakon\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Moq.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\appsettings.Development.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\appsettings.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.exe
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.deps.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.runtimeconfig.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NetworkCommunications.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Azure.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Azure.Identity.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Castle.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Humanizer.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Moq.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Extensions.DependencyInjection.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Extensions.Hosting.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.MessageInterfaces.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\NServiceBus.Transport.SqlServer.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\SQLitePCLRaw.core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.ClientModel.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.CodeDom.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.Convention.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Memory.Data.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Core.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Db.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Db.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\bin\Release\net8.0\Monitoring.Core.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.csproj.AssemblyReference.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.AssemblyInfoInputs.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.AssemblyInfo.cs
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.csproj.CoreCompileInputs.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.RazorAssemblyInfo.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.RazorAssemblyInfo.cs
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.sourcelink.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.NetworkCommunications.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.build.NetworkCommunications.props
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetworkCommunications.props
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.NetworkCommunications.props
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\scopedcss\bundle\NetworkCommunications.styles.css
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkC.51929993.Up2Date
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\refint\NetworkCommunications.dll
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.pdb
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\NetworkCommunications.genruntimeconfig.cache
+C:\Users\vd636\Downloads\Monitorning\MonitoringSystem\MonitoringSystem\src\NetworkCommunications\obj\Release\net8.0\ref\NetworkCommunications.dll
+C:\temp\publish\appsettings.Development.json
+C:\temp\publish\appsettings.json
+C:\temp\publish\NetworkCommunications.exe
+C:\temp\publish\NetworkCommunications.deps.json
+C:\temp\publish\NetworkCommunications.runtimeconfig.json
+C:\temp\publish\NetworkCommunications.dll
+C:\temp\publish\NetworkCommunications.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.csproj.AssemblyReference.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.AssemblyInfoInputs.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.AssemblyInfo.cs
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.csproj.CoreCompileInputs.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cs
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.RazorAssemblyInfo.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.RazorAssemblyInfo.cs
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.sourcelink.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets.build.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets.development.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.NetworkCommunications.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.build.NetworkCommunications.props
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetworkCommunications.props
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.NetworkCommunications.props
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets.pack.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\scopedcss\bundle\NetworkCommunications.styles.css
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkC.51929993.Up2Date
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\refint\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.genruntimeconfig.cache
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\ref\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\appsettings.Development.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\appsettings.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.exe
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.deps.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.runtimeconfig.json
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Azure.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Azure.Identity.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Castle.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Humanizer.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Data.Sqlite.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Moq.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Extensions.DependencyInjection.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Extensions.Hosting.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.MessageInterfaces.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Transport.SqlServer.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\SQLitePCLRaw.core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.ClientModel.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.CodeDom.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.Convention.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Memory.Data.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Core.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Db.dll
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Db.pdb
+C:\Hakon\MonitoringSystem\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Azure.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Azure.Identity.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Castle.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Humanizer.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Data.Sqlite.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Moq.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Extensions.DependencyInjection.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Extensions.Hosting.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.MessageInterfaces.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NServiceBus.Transport.SqlServer.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\SQLitePCLRaw.core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.ClientModel.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.CodeDom.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.Convention.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Drawing.Common.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Memory.Data.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Security.Permissions.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Core.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Db.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Db.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\Monitoring.Core.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.csproj.AssemblyReference.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.AssemblyInfoInputs.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.AssemblyInfo.cs
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.csproj.CoreCompileInputs.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cs
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.MvcApplicationPartsAssemblyInfo.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.RazorAssemblyInfo.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.RazorAssemblyInfo.cs
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.sourcelink.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets.build.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets.development.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.NetworkCommunications.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.build.NetworkCommunications.props
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetworkCommunications.props
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.NetworkCommunications.props
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\staticwebassets.pack.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\scopedcss\bundle\NetworkCommunications.styles.css
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\refint\NetworkCommunications.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\appsettings.Development.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\appsettings.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.exe
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.deps.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.runtimeconfig.json
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.dll
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\bin\Release\net8.0\NetworkCommunications.pdb
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkC.51929993.Up2Date
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\NetworkCommunications.genruntimeconfig.cache
+D:\Station Vision System\Service\NetworkSevice\NetworkSevice\src\NetworkCommunication\obj\Release\net8.0\ref\NetworkCommunications.dll

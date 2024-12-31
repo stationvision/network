@@ -1,0 +1,59 @@
+﻿@model IEnumerable<NetworkCommunications.Controllers.ClientDataViewModel>
+
+@{
+    ViewData["Title"] = "Client Data Timeline";
+    Layout = "~/Views/Shared/_Layout.cshtml";  // Ensure the layout is specified
+}
+
+<h1>Client Data Timeline</h1>
+
+<canvas id="timelineChart" width="400" height="200"></canvas>
+
+<script>
+    // Function to convert seconds to hours
+    function secondsToHours(seconds) {
+        return seconds / 3600;
+    }
+
+    var ctx = document.getElementById('timelineChart').getContext('2d');
+    var timelineData = {
+        labels: @Html.Raw(Json.Serialize(Model.Select(m => m.StartDate.ToString("yyyy-MM-ddTHH:mm:ss")).ToArray())),
+        datasets: [{
+            label: 'Duration (in hours)',
+            data: @Html.Raw(Json.Serialize(Model.Select(m => m.Duration/3600).ToArray())),
+            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+            borderColor: 'rgba(54, 162, 235, 1)',
+            borderWidth: 1
+        }]
+    };
+
+    var timelineChart = new Chart(ctx, {
+        type: 'line',
+        data: timelineData,
+        options: {
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        unit: 'day',
+                        tooltipFormat: 'll HH:mm',
+                        displayFormats: {
+                            day: 'MMM D'
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Date'
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Duration (hours)'
+                    }
+                }
+            }
+        }
+    });
+</script>

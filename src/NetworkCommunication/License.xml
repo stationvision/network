@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license type="Non-Production Development" Applications="All" expiration="2024-08-21" id="621a1742-e10d-47b3-b7ce-4844efe9d266">
+  <name>Hakon.Afzal@gmail.com</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>hL2yL9Dfes0A5EvNY0p0imEy18E=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>X1Lu2qBAe4jkoUtFaIMVLn3tghwfwLNlRK7nGucu5FXA5+wbQi6c5qzwrLgCgECoZZGk5ZpsXWJoqME0/EOIIUMfdwdgmvYAWdokx52jH/DFZA4k+0/yvCPr0Ca7KpRvbdpIjRzWQOkbTgacjzmtK9STVbilQGR7cucdzwMqvHQ=</SignatureValue>
+  </Signature>
+</license>
